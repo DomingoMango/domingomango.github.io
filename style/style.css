@@ -1,0 +1,29 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #fa709a;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(250,112,154,0.5), rgba(254,225,64,0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(250,112,154,0.5), rgba(254,225,64,0.5))
+  }
+  .logo{
+    border-radius: 50%;
+  }
+
+  .bb{
+    background-image: url(/images/bg.jpg);
+    background-repeat: repeat-x;
+  }
+
+  .gradient-custom-footer {
+    /* fallback for old browsers */
+    background: #2ecc71;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(46,204,113,0.5), rgba(254,225,64,0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(46,204,113,0.5), rgba(254,225,64,0.5))
+  }
